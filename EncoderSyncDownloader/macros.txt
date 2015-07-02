@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+AntiVirus for Exchange Server removed a file since it was found to match a filter.
+File name: "EncSync.zip->macros.ini"
+Filter name: "FILE FILTER= Swisscom-SMTP-Backbone-Def: *.INI"
